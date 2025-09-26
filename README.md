@@ -7,7 +7,7 @@
 <center>   <h2> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h2> </center>
 
 <table>
-  <tbody algin="center">
+  <tbody>
     <tr valign="top">
       <td width="25%" align="center">
         <span><b>Python</b></span><br><br><br>
@@ -28,6 +28,10 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
+        <span><b>Android Studio</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
+      </td>
+      <td width="25%" align="center">
         <span><b>Git</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
@@ -38,3 +42,17 @@
     </tr>
   </tbody>
 </table>
+
+
+<h2 align="center">🌐 Connect with me</h2>
+<p align="center">
+  <a href="https://github.com/mohammed-elsaeede" target="_blank">
+    <img src="https://cdn.svgporn.com/logos/github-icon.svg" height="40px">
+  </a>&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/495470943141888000" target="_blank">
+    <img src="https://cdn.svgporn.com/logos/discord-icon.svg" height="40px">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:mohammedelsaeed222@gmail.com" target="_blank">
+    <img src="https://cdn.svgporn.com/logos/google-gmail.svg" height="40px">
+  </a>
+</p>
