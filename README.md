@@ -1,7 +1,7 @@
 ## Hello World!
 <h1 align="center">Hi <img src="https://i.pinimg.com/originals/28/02/00/28020003d4a493c78d8202ba6c35f179.gif" width="60px" height="70px">, I'm Muhammed Elsaeed
 <img src = "https://octodex.github.com/images/spidertocat.png" width ="80px" height="100px"> </h1>
-<img src = "https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" hight ="100" widht= "100">
+<img src = "https://i.pinimg.com/originals/f5/36/01/f53601133f236d1cb167ac19f05a3d60.gif" hight ="80" widht= "80">
 
 ---------
 <center>   <h2> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h2> </center>
