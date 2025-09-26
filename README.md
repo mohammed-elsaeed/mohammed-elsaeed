@@ -54,5 +54,8 @@
   </a>&nbsp;&nbsp;
   <a href="mailto:mohammedelsaeed222@gmail.com" target="_blank">
     <img src="https://cdn.svgporn.com/logos/google-gmail.svg" height="40px">
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/muhameed.py" target="_blank">
+    <img src="https://cdn.svgporn.com/logos/instagram-icon.svg" height="40px">
   </a>
 </p>
