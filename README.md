@@ -59,3 +59,12 @@
     <img src="https://cdn.svgporn.com/logos/instagram-icon.svg" height="40px">
   </a>
 </p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+"Code is like humor. When you have to explain it, it’s bad."
+
+![Profile views](https://komarev.com/ghpvc/?username=mohammed-elsaeede&color=blue)
+
