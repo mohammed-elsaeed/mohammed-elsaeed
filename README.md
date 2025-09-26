@@ -12,7 +12,7 @@
 <center>   <h2> 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸 </h2> </center>
 
 <table>
-  <tbody>
+  <tbody algin="center">
     <tr valign="top">
       <td width="25%" align="center">
         <span><b>Python</b></span><br><br><br>
